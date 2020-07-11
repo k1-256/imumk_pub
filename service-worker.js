@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/imumk_pub/precache-manifest.347e28049abae40e589084e1fa474f14.js"
+  "/imumk_pub/precache-manifest.9283b55c344b46c5e60eb3184860f6fe.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "imumk"});
